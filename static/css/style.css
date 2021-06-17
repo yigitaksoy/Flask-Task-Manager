@@ -1,5 +1,9 @@
+/* Adobe Fonts */
+@import url("https://use.typekit.net/ngi2bbw.css");
+
 body {
     background: azure;
+    font-family: termina, sans-serif;
 }
 
 .text-shadow {
